@@ -1,5 +1,5 @@
 🔑 Core Functionalities
-The backend for the Airbnb Clone must enable key features that align with the functionalities of a rental marketplace.
+The backend for the Airbnb Clone must enable key features that align with the functionalities of a rental marketplace
 
 1. User Management
 User Registration:
